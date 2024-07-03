@@ -96,6 +96,6 @@ On-Page SEO:
 Used the “On Page SEO Checker” to gather ideas for improving on-page SEO.
 Implemented recommendations to enhance meta tags, headings, and content structure.
 
-Conclusion
+**Conclusion**
 
 By leveraging SEMrush, I was able to perform thorough SEO audits, monitor keyword rankings, analyze competitors, and develop effective strategies to improve the search engine visibility of Aish Beauty. These activities have equipped me with valuable insights and practical experience in using advanced SEO tools to drive website performance improvements.
